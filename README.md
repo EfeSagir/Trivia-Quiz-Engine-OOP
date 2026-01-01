@@ -27,5 +27,3 @@ This is a dynamic, text-based quiz application that demonstrates advanced **Obje
 4.  See your final score at the end of the session!
 
 ---
-
-_Developed as part of the 100 Days of Code: The Complete Python Pro Bootcamp._
